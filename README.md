@@ -28,7 +28,7 @@ This is a repository to test and benchmark the best or newest available packages
 
 6) Hyperparameters tuning
 
-    Find the best paramaters for your algorithms
+    Find the best parameters for your algorithms
 
 7) Evaluating 
 
